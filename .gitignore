@@ -1,3 +1,6 @@
+*.iml
+*~
+
 _site/*
 _theme_packages/*
 _includes/themes/twitter/_site
